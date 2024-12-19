@@ -1,7 +1,7 @@
 import { @Vigilant, @CheckboxProperty, @ButtonProperty, @SliderProperty, Color, @ColorProperty, @TextProperty, @SelectorProperty } from 'Vigilance';
 import * as Utils from "./utils";    
 
-@Vigilant("AutoRatter")
+@Vigilant("With love, from dizzyyss")
 class Settings {
     @CheckboxProperty({
         name: 'Toggle Lobby Scanning',
