@@ -1,0 +1,8 @@
+{
+  "name": "AutoRatter",
+  "author": "Nvidia2080Ti",
+  "entry": "index.js",
+  "version": "1.0.0",
+  "requires": ["Vigilance", "PogData", "requestv2", "RenderLibV2", "FileUtilities"],
+  "description": ""
+}

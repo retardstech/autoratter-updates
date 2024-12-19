@@ -1,0 +1,30 @@
+
+[general]
+	[general.island_scanning]
+		toggle_island_scanning = true
+
+	[general.lobby_scanning]
+		toggle_lobby_scanning = true
+		lobby_scanning_level_cap = 150
+
+	[general.scanned_items]
+		toggle_showing_soulbound_items = true
+		toggle_fairy_and_crystal_scanning = true
+		toggle_non_rare_accessory_legacy_scanning = false
+		toggle_armor_and_weapon_legacy_scanning = true
+		cake_year_cap = 50
+		toggle_rare_accessory_legacy_scanning = true
+		toggle_cake_scanning = true
+
+[extra_features]
+	toggle_showing_ironman_profiles = true
+	toggle_showing_old_profiles = true
+
+[render]
+	toggle_scanned_items_display = true
+	tracer_scale = 5
+	island_scanned_item_display_color = 1
+	name_scale = 3
+	hitbox_scale = 5
+	player_tracer_display_color = 0
+
