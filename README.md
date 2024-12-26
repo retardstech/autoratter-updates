@@ -13,6 +13,10 @@ Hypixel API key (link your Minecraft account to the hypixel forums):
 
 https://developer.hypixel.net/dashboard
 
+**IF CHATTRIGGERS IS DOWN, OR CANNOT INSTALL DEPENDENCIES, YOU CAN USE THE LINK BELOW AS A MIRROR FOR DEPENDENCIES**
+
+https://github.com/catg1rls/auto-ratter-dependencies
+
 
 
 # Setup:
@@ -27,7 +31,7 @@ Whilst in-game, use `/ct load` to load ChatTrigger modules (the sniping mod)
 
 Set up lobby scanner to active, and load into a different lobby
 
-Use `/scanneradd key <key>`
+Use `/scannerkey add <key>`
 
 NOTE: <key> is where you will insert your Hypixel API key
 
