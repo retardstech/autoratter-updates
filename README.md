@@ -1,5 +1,5 @@
-# public auto-ratter sniper
-Auto-Ratter without the logging, auto-updates and tracking. 
+# public auto-ratter, continued
+Auto-Ratter without the logging, auto-updates and tracking - updated by dizzyy
 
 # Pre-requisites:
 
@@ -24,6 +24,8 @@ https://github.com/catg1rls/auto-ratter-dependencies
 Install all mods into `%appdata%/.minecraft/mods/`
 
 Install AutoRatter to `%appdata%/.minecraft/config/ChatTriggers/modules/`
+
+**IF YOU DOWNLOAD THE RELEASE BUILD, PLEASE ENSURE AUTORATTER IS THE FOLDER YOU PLACE INTO `MODULES`**
 
 # In-game:
 
