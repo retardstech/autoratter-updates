@@ -25,7 +25,7 @@ Install all mods into `%appdata%/.minecraft/mods/`
 
 Install AutoRatter to `%appdata%/.minecraft/config/ChatTriggers/modules/`
 
-**IF YOU DOWNLOAD THE RELEASE BUILD, PLEASE ENSURE AUTORATTER IS THE FOLDER YOU PLACE INTO `MODULES`**
+**IF YOU DOWNLOAD THE RELEASE BUILD, PLEASE ENSURE AUTORATTER IS THE NAME OF THE FOLDER YOU PLACE INTO `MODULES`**
 
 # In-game:
 
